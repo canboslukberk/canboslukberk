@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Full-stack Web Development
 - 💬 Ask me about Backend Technologies
 - 📫 How to reach me: [canberk8@gmail.com](mailto:canberk8@gmail.com) & [Twitter @canboslukberk](https://twitter.com/canboslukberk)
-- ⚡ Fun fact: Chickens cannot burp. 🌈
+- ⚡ Fun fact: Chickens cannot burp.
 
 
 ## My skills 🚀
