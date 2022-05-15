@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React & Frontend
 - 👯 I’m looking to collaborate on Full-stack Web Development
 - 💬 Ask me about Backend Technologies
-- 📫 How to reach me: [canberk8@gmail.com](mailto:canberk8@gmail.com) & [Twitter @canboslukberk](https://twitter.com/canboslukberk)
+- 📫 How to reach me: [canberk8@gmail.com](mailto:canberk8@gmail.com)
 - ⚡ Fun fact: Chickens cannot burp.
 
 
