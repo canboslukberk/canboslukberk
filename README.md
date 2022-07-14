@@ -1,5 +1,8 @@
-### Hi there 👋, I'm Can Berk. 
-Programming, 
+###
+Hey, I'm Can Berk. Here you can find all of my projects or the ones I have contribute. Most of them made for practicing in specific technologies, design patterns, and best practices of web development.
+
+    🔬 I am mainly focused on handling cutting-edge back-end web technologies with also a strong understanding of front-end technologies.
+    📚 I love reading books about principles of object-oriented programming like SOLID and software design philosophies like Clean Architecture.
 
 </br>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=canboslukberk&label=Profile%20views&color=0e75b6&style=flat" alt="darkarp" /> </p>
@@ -8,14 +11,6 @@ Programming,
 <!--
 **canboslukberk/canboslukberk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NodeJS & Backend
-- 🌱 I’m currently learning Android
-- 💬 Ask me about Backend Technologies
-- 📫 How to reach me: [canberk8@gmail.com](mailto:canberk8@gmail.com)
-
 
 ## My skills 🚀
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
