@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Can Berk. 
+Programming, 
+
+</br>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=canboslukberk&label=Profile%20views&color=0e75b6&style=flat" alt="darkarp" /> </p>
+</br>
 
 <!--
 **canboslukberk/canboslukberk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,11 +12,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NodeJS & Backend
-- 🌱 I’m currently learning React & Frontend
-- 👯 I’m looking to collaborate on Full-stack Web Development
+- 🌱 I’m currently learning Android
 - 💬 Ask me about Backend Technologies
 - 📫 How to reach me: [canberk8@gmail.com](mailto:canberk8@gmail.com)
-- ⚡ Fun fact: Chickens cannot burp.
 
 
 ## My skills 🚀
