@@ -1,8 +1,8 @@
 ###
 Hey, I'm Can Berk. Here you can find all of my projects or the ones I have contribute. Most of them made for practicing in specific technologies, design patterns, and best practices of web development.
 
-    🔬 I am mainly focused on handling cutting-edge back-end web technologies with also a strong understanding of front-end technologies.
-    📚 I love reading books about principles of object-oriented programming like SOLID and software design philosophies like Clean Architecture.
+🔬 I am mainly focused on handling cutting-edge back-end web technologies with also a strong understanding of front-end technologies.
+📚 I love reading books about principles of object-oriented programming like SOLID and software design philosophies like Clean Architecture.
 
 </br>
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=canboslukberk&label=Profile%20views&color=0e75b6&style=flat" alt="darkarp" /> </p>
